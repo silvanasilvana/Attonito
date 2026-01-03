@@ -358,8 +358,7 @@ html {
 
 
 
-/* VIDEO DE FONDO */
-.certificaciones-bg {
+/* VIDEO DE FONDO */.certificaciones-bg {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -370,7 +369,6 @@ html {
     z-index: 1;
 }
 
-/* CONTENIDO ENCIMA */
 .certificaciones-content {
     position: relative;
     z-index: 2;
@@ -382,6 +380,7 @@ html {
     text-align: center;
     padding: 40px 20px;
 }
+
 
 /* TÍTULO */
 .certificaciones-content h2 {
