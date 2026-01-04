@@ -349,4 +349,9 @@ select {
   .video-overlay p {
     font-size: 14px;
   }
+   .card img {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+  }
 }
