@@ -27,9 +27,15 @@ body {
 
 /* Portada */
 .portada {
-    position: relative;
-    width: 100%;
+  position: relative;
+  width: 100%;
+  height: 100vh; /* 👈 ESTO ES LA CLAVE */
+  background-image: url("images/portada.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+
 
 .portada img {
     width: 100%;
