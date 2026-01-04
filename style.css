@@ -30,7 +30,7 @@ body {
   position: relative;
   width: 100%;
   height: 100vh; /* 👈 ESTO ES LA CLAVE */
-  background-image: url("images/portada.png");
+  background-image: url("images/portadasi.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
